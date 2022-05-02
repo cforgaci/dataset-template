@@ -50,7 +50,6 @@ C. Associated study personnel
 - ...
 
 ## 1.4 Dates of data collection
-==dd==
 - Survey 1: YYYY-MM-DD
 - Survey 2: YYYY-MM-DD
 
