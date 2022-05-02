@@ -45,17 +45,12 @@ B. Associate or Co-investigator
 - Address: 
 - Email:
 
-C. FAIR Dataset Refinement and Preparation for Publication (dataset)
-- Name: 
-- Institution: 
-- Address: 
-- Email: 
-
-D. Associated study personnel 
+C. Associated study personnel 
 - ...
 - ...
 
 ## 1.4 Dates of data collection
+==dd==
 - Survey 1: YYYY-MM-DD
 - Survey 2: YYYY-MM-DD
 
